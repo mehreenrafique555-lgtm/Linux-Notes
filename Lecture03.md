@@ -170,8 +170,3 @@ rmdir      → folder delete
 find       → name se dhoondo
 grep       → content me dhoondo
 clear      → screen saaf
-```
-
----
-
-⭐ Agar notes helpful lage to repo ko star kar dena!
